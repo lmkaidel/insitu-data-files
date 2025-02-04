@@ -1,23 +1,4 @@
-![image](https://github.com/user-attachments/assets/050516a5-6ec4-4e85-8a6c-e56db5875965)# insitu-data-files
-files for supplementary in situ data 
-
-Supplemental_Information_Table_S2.xlsx contains snow and ice thickness data measured with drilled ice thickness holes
-
-column names: location	date	Ice Thickness (cm)	Snow Depth (cm)
-
-column description: [geographic location of the measurment] [date of measurment] [ice thickness] [snow depth]
-
-column unit: [text] [datetime] [cm] [cm]
-
-
-Supplemental_Information_Table_S3.xlsx contains snow depth data measured with an automatic snow depth probe 
-
-column names: TIMESTAMP	DepthCm	BattVolts	latitude_a	latitude_b	Longitude_a	Longitude_b
-
-column description: [time of measurment] [snow depth] [battery voltage] [latitude of measurment] [latitude of measurment] [longitude of measurment] [longitude of measurment]
-
-column unit: [datetime] [cm] [V] [decimal degrees] [decimal degrees] [decimal degrees] [decimal degrees]
-
+stress data and base processing for in situ stress data in Elson Lagoon from 12-2018 to 05-2019
 
 Supplemental_Information_Table_S4.csv contains raw frequency data from a biaxial stress gauge
 
